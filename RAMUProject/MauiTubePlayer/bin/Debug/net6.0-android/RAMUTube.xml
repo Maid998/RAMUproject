@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiTubePlayer</name>
+    </assembly>
+    <members>
+        <member name="F:MauiTubePlayer.ViewModels.Base.AppViewModelBase.navigateBackCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.Base.AppViewModelBase.NavigateBackCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.Base.AppViewModelBase.NavigateBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.Base.AppViewModelBase.NavigateBack"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.Base.AppViewModelBase.closeModalCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.Base.AppViewModelBase.CloseModalCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.Base.AppViewModelBase.CloseModalCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.Base.AppViewModelBase.CloseModal"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.StartPageViewModel.YoutubeVideos">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.StartPageViewModel.youtubeVideos"/>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.StartPageViewModel.IsLoadingMore">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.StartPageViewModel.isLoadingMore"/>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.StartPageViewModel.openSettingPageCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.StartPageViewModel.OpenSettingPageCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.StartPageViewModel.OpenSettingPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.StartPageViewModel.OpenSettingPage"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.StartPageViewModel.loadMoreVideosCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.StartPageViewModel.LoadMoreVideosCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.StartPageViewModel.LoadMoreVideosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.StartPageViewModel.LoadMoreVideos"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.StartPageViewModel.searchVideosCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.StartPageViewModel.SearchVideosCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.StartPageViewModel.SearchVideosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.StartPageViewModel.SearchVideos(System.String)"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.StartPageViewModel.navigateToVideoDetailsPageCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.StartPageViewModel.NavigateToVideoDetailsPageCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.StartPageViewModel.NavigateToVideoDetailsPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.StartPageViewModel.NavigateToVideoDetailsPage(System.String)"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.TheVideo">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.theVideo"/>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.SimilarVideos">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.similarVideos"/>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.TheChannel">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.theChannel"/>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.Comments">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.comments"/>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.VideoSource">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.videoSource"/>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.ProgressValue">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.progressValue"/>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.IsDownloading">
+            <inheritdoc cref="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.isDownloading"/>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.unlikeVideoCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.UnlikeVideoCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.UnlikeVideoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.UnlikeVideo"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.shareVideoCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.ShareVideoCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.ShareVideoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.ShareVideo"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.downloadVideoCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.DownloadVideoCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.DownloadVideoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.DownloadVideo"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.subscribeChannelCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.SubscribeChannelCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.SubscribeChannelCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.SubscribeChannel"/>.</summary>
+        </member>
+        <member name="F:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.navigateToVideoDetailsPageCommand">
+            <summary>The backing field for <see cref="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.NavigateToVideoDetailsPageCommand"/>.</summary>
+        </member>
+        <member name="P:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.NavigateToVideoDetailsPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiTubePlayer.ViewModels.VideoDetailsPageViewModel.NavigateToVideoDetailsPage(System.String)"/>.</summary>
+        </member>
+    </members>
+</doc>

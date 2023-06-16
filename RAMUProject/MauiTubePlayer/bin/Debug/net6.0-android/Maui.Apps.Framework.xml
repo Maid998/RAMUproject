@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Maui.Apps.Framework</name>
+    </assembly>
+    <members>
+        <member name="P:Maui.Apps.Framework.MVVM.ViewModelBase.Title">
+            <inheritdoc cref="F:Maui.Apps.Framework.MVVM.ViewModelBase.title"/>
+        </member>
+        <member name="P:Maui.Apps.Framework.MVVM.ViewModelBase.IsBusy">
+            <inheritdoc cref="F:Maui.Apps.Framework.MVVM.ViewModelBase.isBusy"/>
+        </member>
+        <member name="P:Maui.Apps.Framework.MVVM.ViewModelBase.LoadingText">
+            <inheritdoc cref="F:Maui.Apps.Framework.MVVM.ViewModelBase.loadingText"/>
+        </member>
+        <member name="P:Maui.Apps.Framework.MVVM.ViewModelBase.DataLoaded">
+            <inheritdoc cref="F:Maui.Apps.Framework.MVVM.ViewModelBase.dataLoaded"/>
+        </member>
+        <member name="P:Maui.Apps.Framework.MVVM.ViewModelBase.IsErrorState">
+            <inheritdoc cref="F:Maui.Apps.Framework.MVVM.ViewModelBase.isErrorState"/>
+        </member>
+        <member name="P:Maui.Apps.Framework.MVVM.ViewModelBase.ErrorMessage">
+            <inheritdoc cref="F:Maui.Apps.Framework.MVVM.ViewModelBase.errorMessage"/>
+        </member>
+        <member name="P:Maui.Apps.Framework.MVVM.ViewModelBase.ErrorImage">
+            <inheritdoc cref="F:Maui.Apps.Framework.MVVM.ViewModelBase.errorImage"/>
+        </member>
+    </members>
+</doc>

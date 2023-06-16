@@ -1,0 +1,13 @@
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\bin\Debug\net6.0\Maui.Controls.BottomSheet.deps.json
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\bin\Debug\net6.0\Maui.Controls.BottomSheet.dll
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\bin\Debug\net6.0\Maui.Controls.BottomSheet.pdb
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\Maui.Controls.BottomSheet.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\Maui.Controls.BottomSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\Maui.Controls.BottomSheet.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\Maui.Controls.BottomSheet.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\Maui.Controls.BottomSheet.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\XamlC.stamp
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\Maui.Controls.BottomSheet.dll
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\refint\Maui.Controls.BottomSheet.dll
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\Maui.Controls.BottomSheet.pdb
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Controls.BottomSheet\obj\Debug\net6.0\ref\Maui.Controls.BottomSheet.dll

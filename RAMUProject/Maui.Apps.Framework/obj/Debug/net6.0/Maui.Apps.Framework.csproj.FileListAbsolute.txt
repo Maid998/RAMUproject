@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\bin\Debug\net6.0\Maui.Apps.Framework.deps.json
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\bin\Debug\net6.0\Maui.Apps.Framework.dll
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\bin\Debug\net6.0\Maui.Apps.Framework.pdb
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\Maui.Apps.Framework.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\Maui.Apps.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\Maui.Apps.Framework.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\Maui.Apps.Framework.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\Maui.Apps.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\Maui.Apps.Framework.dll
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\refint\Maui.Apps.Framework.dll
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\Maui.Apps.Framework.pdb
+C:\Users\Korisnik\Desktop\MauiTubePlayer-main\src\Maui.Apps.Framework\obj\Debug\net6.0\ref\Maui.Apps.Framework.dll
